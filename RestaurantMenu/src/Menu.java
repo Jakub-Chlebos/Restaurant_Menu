@@ -74,7 +74,7 @@ public class Menu {
                     "3.Dania glowne\n" +
                     "4.Desery\n" +
                     "5.Napoje i alkohole\n\n" +
-                    "Prosze podaj swoj budzet dla: " +/*+ (i+1) +*/ "(maly/sredni/duzy)");
+                    "Prosze podaj swoj budzet "/* dla: + (i+1) + */ "(maly/sredni/duzy)");
 
 
             Scanner scanner = new Scanner(System.in);
