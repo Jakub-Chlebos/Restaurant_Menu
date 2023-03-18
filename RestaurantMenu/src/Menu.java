@@ -87,7 +87,7 @@ public class Menu {
             getDanieGlowne(budzet);
             getDeser(budzet);
             getNapoj(budzet);
-       // }
+    
         System.out.println("Dzis zjesz:");
         System.out.println("Przystawka: " + przystawka);
         System.out.println("Zupa: " + zupa);
