@@ -67,14 +67,13 @@ public class Menu {
         }
 
     public static void main(String[] args) {
-       // for (Integer i =0; i < 5; i++) {
             System.out.println("W naszym menu: \n" +
                     "1.Przystawki\n" +
                     "2.Zupy\n" +
                     "3.Dania glowne\n" +
                     "4.Desery\n" +
                     "5.Napoje i alkohole\n\n" +
-                    "Prosze podaj swoj budzet "/* dla: + (i+1) + */ "(maly/sredni/duzy)");
+                    "Prosze podaj swoj budzet (maly/sredni/duzy)";
 
 
             Scanner scanner = new Scanner(System.in);
